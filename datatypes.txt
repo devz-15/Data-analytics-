@@ -1,0 +1,18 @@
+int a = 10
+
+float b = 10.5
+
+string name = "Devi"
+
+Boolean a = True
+
+complex c=i+cj
+
+list fruits = ["apple", "banana", "mango"]
+
+tuple fruits = ("apple", "banana", "mango")
+
+set n = {1, 2, 3, 4}
+
+dictionary student = {"name": "Priya", "age": 19, "course": "CS"}
+
